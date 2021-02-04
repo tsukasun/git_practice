@@ -32,7 +32,7 @@ header {
 .top-wrapper { 
   height:1000px;
   width:auto;
-  background-image: url(img/sample1.jpg);
+  background-image: url(sample1.jpg);
   background-size: cover;
   min-height:300px;
   background-repeat:no-repeat;
@@ -70,7 +70,7 @@ header {
 .lesson-wrapper {
   height:1000px;
   position:relative;
-  background-image: url(img/sample2.jpg);
+  background-image: url(sample2.jpg);
   background-size: cover;
   min-height:300px;
   background-repeat:no-repeat;
@@ -109,7 +109,7 @@ header {
 
 .contents-wrapper {
   height:1120px;
-  background-image: url(img/sample6.jpg);
+  background-image: url(sample6.jpg);
   background-size: cover;
   min-height:300px;
   background-repeat:no-repeat;
@@ -244,7 +244,7 @@ header {
 .contact-form {
   font-family: 'Vollkorn', serif;
   height:1000px;
-  background-image: url(img/sample7.jpg);
+  background-image: url(sample7.jpg);
   background-size: cover;
   opacity:0.8;
 }
