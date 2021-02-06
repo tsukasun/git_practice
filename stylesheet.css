@@ -322,8 +322,9 @@ header {
   }
 
   .top-wrapper #p {
-    margin:0px 5px;
+    margin:0px 10px;
     font-size:50px;
+    margin:0px 0px;
   }
 
   .lesson-wrapper {
@@ -331,7 +332,7 @@ header {
   }
   
   .lesson-wrapper ul {
-    font-size:20px;
+    font-size:27px;
     margin-left:10px;
     margin-right:10px;
     margin-top:30px;
@@ -349,7 +350,7 @@ header {
     font-family: 'Vollkorn', serif;
     text-align: center;
     color:white;
-    font-size:10px;
+    font-size:13px;
     background-color:rgba(10, 10, 10, 0.651);
     margin:0px 5px;
   }
@@ -357,6 +358,8 @@ header {
   .contents-wrapper .sample4 {
     margin:10px 10px;
     display: flex;
+    height:auto;
+    width:400px;
   }
   
   .contents-wrapper .sample5 {
@@ -364,24 +367,28 @@ header {
     z-index:0;
     height:200px;
     width:200px;
-    left:125px;
-    top:450px;
+    left:120px;
+    top:370px;
   }
   
   .contents-wrapper ul {
     font-size:25px;
     position: relative;
     left:0px;
-    top:470px;
+    top:400px;
     margin:0px 10px;
     background-color:rgba(255, 255, 255, 0.63);
     border-radius: 20px;
   }
+
+  .contents-wrapper li {
+    margin-bottom: 15px;
+  }
   
   .contents-wrapper .text {
-    font-size:20px;
+    font-size:12px;
     margin-bottom:0px;
-    padding-left:100px;
+    padding-left:65px;
   }
   
   .contents-wrapper span {
@@ -391,7 +398,7 @@ header {
   .content {
     font-size:30px;
     left:0px;
-    top:250px;
+    top:400px;
     margin-left:10px;
     margin-right:10px;
   }
@@ -401,15 +408,15 @@ header {
   }
   
   .snsicon {
-    letter-spacing: 30px;
+    letter-spacing: 25px;
     text-align: center;
-    padding-left:15px;
+    padding-left:30px;
   }
   
   .snstext {
-    margin-left:85px;
+    margin-left:68px;
     display: flex;
-    font-size:15px;
+    font-size:12px;
   }
   
   .snstext p {
@@ -424,7 +431,7 @@ header {
   }
   
   .contact-form {
-    height:1800px;
+    height:1700px;
     padding:0px 0px;
     margin:0px 0px ;
   }
@@ -441,14 +448,14 @@ header {
   }
   
   .container {
-    height:800px;
-    width:350px;
+    height:650px;
+    width:380px;
     margin:0px auto;
     padding:0px 0px;
   }
   
   .container iframe {
-    width:350px;
+    width:380px;
     padding:0px 10px;
   }
   .container a {
@@ -462,7 +469,7 @@ header {
   }
   
   .container i {
-    padding-left:160px;
+    padding:0px 140px;
     color:blue; 
     transition: color 0.5s ease;
   }
