@@ -322,9 +322,8 @@ header {
   }
 
   .top-wrapper #p {
-    margin:0px auto;
+    margin:0px 10px;
     font-size:50px;
-    margin:0px 0px;
     width:380px;
   }
 
