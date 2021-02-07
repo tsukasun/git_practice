@@ -322,7 +322,7 @@ header {
   }
 
   .top-wrapper #p {
-    margin:0px 10px;
+    margin:0px auto;
     font-size:50px;
     margin:0px 0px;
     width:380px;
@@ -340,7 +340,7 @@ header {
   }
 
   .contents-wrapper {
-    height:1650px;
+    height:1250px;
   }
   
   .contents-wrapper .Introduce {
